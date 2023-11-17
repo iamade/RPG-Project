@@ -1795,10 +1795,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0af675e96ea51e948ad9d10cb816846b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cursorMappings: []
-  maxNavMeshProjectionDistance: 1
-  raycastRadius: 1
-  numberOfAbilities: 6
 --- !u!20 &7387196690196323288
 Camera:
   m_ObjectHideFlags: 0
